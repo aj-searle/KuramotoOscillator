@@ -31,3 +31,8 @@ Dependencies
 1. Matplotlib
 2. Sympy
 3. Numpy
+
+Acknowledgements
+----------------
+This code was written while I was doing an internship at the Technical University of 
+Berlin, in the Nonlinear Dynamics and Control Group. 
