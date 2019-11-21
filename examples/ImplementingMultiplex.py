@@ -1,4 +1,7 @@
-import ../KuramotoOscillator as ko
+import sys, os
+sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+
+import KuramotoOscillator as ko
 import matplotlib.pyplot as plt
 from matplotlib.font_manager import FontProperties
 from sympy import *
